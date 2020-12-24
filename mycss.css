@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(15, 15, 15);
+}
+
+td{
+    text-align: center;
+    color: white;
+}
+th{
+    text-align: center;
+    color: rgb(34, 172, 236);
+}
+button{
+    margin-top: 200px;
+    margin-left: 50px;
+    height: 80px;
+    width: 100px;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+
+}
+
+button:hover{
+    background-color: turquoise;
+}
+#resultA{
+    margin-top: 50px;
+    margin-left: 25px; 
+    height: 70px;
+    width: 150px;
+    border: solid 1px gray;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+#resultB{
+    margin-top: 50px;
+    margin-left: 25px; 
+    height: 70px;
+    width: 150px;
+    border: solid 1px gray;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
