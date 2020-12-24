@@ -50,3 +50,12 @@ button:hover{
     justify-content: center;
     color: white;
 }
+#timmer{
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    background-color: transparent;
+    font-size: 200px;
+    color:rgb(194, 85, 85);
+    text-align: center;
+}
